@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://orion-template.banos.cloud/static/css/main.795b2ce5.css",
+    "main.js": "https://orion-template.banos.cloud/static/js/main.9997bee8.js",
+    "static/media/slick.svg": "https://orion-template.banos.cloud/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://orion-template.banos.cloud/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://orion-template.banos.cloud/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://orion-template.banos.cloud/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://orion-template.banos.cloud/index.html",
+    "main.795b2ce5.css.map": "https://orion-template.banos.cloud/static/css/main.795b2ce5.css.map",
+    "main.9997bee8.js.map": "https://orion-template.banos.cloud/static/js/main.9997bee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795b2ce5.css",
+    "static/js/main.9997bee8.js"
+  ]
+}
